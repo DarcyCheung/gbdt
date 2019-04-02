@@ -1,5 +1,5 @@
 from sklearn.datasets import load_svmlight_file
-from sklearn.cross_validation import *
+from sklearn.model_selection import *
 from sklearn import metrics  
 import numpy as np
 import sys  
